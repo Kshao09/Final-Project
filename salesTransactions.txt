@@ -1,0 +1,69 @@
+
+----------------------------------------------
+2021-11-22 10:54:49-AM Kenny  
+ Drinks: [Drink{name='Latte', size='medium', ounces=12.5, addedCream=true, addedFlavor='null', cost=5.25}] 
+ Snacks: [Snack{name='Cookie', description='other snack', cost=1.5}, Snack{name='Apple', description='fruit snack', cost=2.5}] 
+ Payment Method: null AmountPaid=9.8975
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-22 10:56:02-AM Mindy  
+ Drinks: [Drink{name='Frappucino', size='large', ounces=16.8, addedCream=false, addedFlavor='Caramel', cost=7.8500000000000005}] 
+ Payment Method: null AmountPaid=8.3995
+----------------------------------------------
+
+On 2021-11-22 10:56:43-AM, the FIU Starbucks store has sold $18.30
+
+----------------------------------------------
+2021-11-22 12:02:22-PM Kenny  
+ Drinks: [Drink{name='Latte', size='small', ounces=8.0, addedCream=true, addedFlavor='null', cost=4.0}] 
+ Snacks: [Snack{name='cookie', description='other snack', cost=1.5}] 
+ Payment Method: null AmountPaid=5.885
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-22 12:11:33-PM Kenny  
+ Drinks: [Drink{name='Latte', size='large', ounces=16.8, addedCream=true, addedFlavor='null', cost=7.4}] 
+ Snacks: [Snack{name='cookie', description='other snack', cost=1.5}] 
+ Merchs: [Merchandise{name: shirtsize: largeprice: 11.0quantity: 2}] 
+ Payment Method: null AmountPaid=21.293
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-22 12:13:00-PM Kenny  
+ Drinks: [Drink{name='Latte', size='large', ounces=16.8, addedCream=true, addedFlavor='null', cost=7.4}] 
+ Snacks: [Snack{name='apple', description='fruit snack', cost=2.5}] 
+ Merchs: [Merchandise{name: jacket size: large price: 13.0 quantity: 2}] 
+ Payment Method: null AmountPaid=24.503
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-23 03:40:46-PM Kenny Shao  
+ Drinks: [Drink{name='latte', size='medium', ounces=12.5, addedCream=true, addedFlavor='null', cost=5.25}] 
+ Snacks: [Snack{name='donut', description='other snack', cost=1.5}] 
+ Merchs: [Merchandise{name: jacket size: large price: 19.5 quantity: 3}] 
+ Payment Method: null AmountPaid=28.0875
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-23 03:52:46-PM Kenny Shao  
+ Drinks: [Drink{name='latte', size='large', ounces=16.8, addedCream=true, addedFlavor='null', cost=7.4}] 
+ Snacks: [Snack{name='donut', description='other snack', cost=1.5}] 
+ Merchs: [Merchandise{name: jacket size: large price: 13.0 quantity: 2}, Merchandise{name: shirt size: large price: 5.5 quantity: 1}] 
+ Payment Method: null AmountPaid=29.317999999999998
+----------------------------------------------
+
+
+----------------------------------------------
+2021-11-23 04:10:39-PM Kenny  
+ Drinks: [Drink{name='frappuchino', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='donut', description='other snack', cost=1.5}] 
+ Merchs: [Merchandise{name: jacket size: large price: 13.0 quantity: 2}, Merchandise{name: socks size: large price: 11.0 quantity: 2}] 
+ Payment Method: null AmountPaid=29.96
+----------------------------------------------
+
